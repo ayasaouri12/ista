@@ -1,0 +1,1 @@
+let hamid = document.getElementById('play')
